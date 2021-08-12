@@ -3,10 +3,14 @@ Yow, I'm Sean 👋
 I am software developer and eager to learn more things on how to become a proper developer 🔭
 
 Skill
--Javscript
--HTML
--Java
--CSS
+- Javascript
+- CSS/SCSS
+- Java
+- Spring Boot
+- HTML
+- C#
+- React
+- Unity
 
 Blog Posts
 
